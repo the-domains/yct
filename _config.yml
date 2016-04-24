@@ -1,0 +1,14 @@
+layout_spectrum: 0.2616487
+typography_spectrum: 0.5555556
+color:
+  saturation: 0.8261649
+  lightness: 0.3028674
+  brandStrength: 0.8475294
+  brandColors:
+    - '#FBE2CC'
+    - '#BD8667'
+    - '#0D0007'
+    - '#45241E'
+    - '#45839F'
+  rhythmicContrast: 0.2688172
+name: Yct
